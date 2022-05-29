@@ -7,3 +7,7 @@ p {
     font-family: 'Courier New', Courier, monospace;
     font-size: large;
 }
+
+button {
+    color: red;
+}
